@@ -1,7 +1,5 @@
-import React from 'react'
+import React from 'react';
 
 export default function Ass() {
-    return (
-        <div>ASS</div>
-    )
+  return <div>ASS</div>;
 }

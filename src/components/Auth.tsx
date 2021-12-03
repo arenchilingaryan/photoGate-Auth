@@ -6,7 +6,7 @@ import Shit from './Shit';
 
 const Auth = () => {
   return (
-    <BrowserRouter basename='/auth'>
+    <BrowserRouter basename="/auth">
       <div className="div" style={{ fontSize: '100px' }}>
         AUTH
         <Link to="/ass">To ass</Link>
